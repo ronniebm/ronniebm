@@ -19,13 +19,13 @@
 </table>
 
 ### Here some of my work:
-- SCRIPT TOOLS for Holberton:
+- SCRIPT TOOLS for Holberton:  
     https://github.com/ronniebm/script_configurators  
 
-- My very first App in playstore (Thunkable learning):
+- My very first App in playstore (Thunkable learning):  
     https://play.google.com/store/apps/details?id=com.ronniealberto.Brain&hl=es_CO
 
-- Currently updating website from old wix format to a new Static Design.  
+- Currently updating website from old wix format to a new Static Design:  
     www.mcontroles.com  (an Industry Automation company).
 
 
