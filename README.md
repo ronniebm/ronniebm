@@ -2,8 +2,31 @@
 
 # I'm Ronnie
 
-I'm a full stack software developer, passionate to learn all about technologies and their implementations. I like a good coffee, read self-motivation books, audio-books, web/app design.
-<img width="80%" src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
+<table align="center">
+  <tbody>
+        <tr>
+            <td align="left" width="40%">
+                <p align="justify">I'm a Full stack software developer, passionate to learn all about technologies and their implementations. I like a good coffee, read self-motivation books, audio-books, keep training in web courses,  investigation, web/app design.</p>
+                <br>  
+                <p>My actual Technological skills and basis:</p>
+                Ubuntu | Bash Scripting | SQL databases | C/C++ | Python | HTML5 | CSS | JavaScript | React | Flask | Docker | Git | Tmux | emacs.
+            </td>
+            <td align="center" width="60%">
+                <img width="100%" src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### Here some of my work:
+- SCRIPT TOOLS for Holberton:
+    https://github.com/ronniebm/script_configurators  
+
+- My very first App in playstore (Thunkable learning):
+    https://play.google.com/store/apps/details?id=com.ronniealberto.Brain&hl=es_CO
+
+- Currently updating website from old wix format to a new Static Design.)
+    www.mcontroles.com  (an Industry Automation company).
 
 
 <!--
