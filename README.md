@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 # I'm Ronnie
-<div id="d01" style="position: absolute; top: 50%;"><p>welcome</p></div>
-<img src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
+
+I'm a full stack software developer, passionate to learn all about technologies and their implementations. I like a good coffee, read self-motivation books, audio-books, web/app design.
+<img width="80%" src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
+
 
 <!--
 **ronniebm/ronniebm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
 
 Here are some ideas to get you started:
 
