@@ -12,13 +12,13 @@
                 Ubuntu | Bash Scripting | SQL | C/C++ | Python | HTML5 | CSS | JavaScript | React | Flask | Docker | Git | Tmux | emacs.
             </td>
             <td align="center" width="60%">
-                <img width="100%" src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
+                <img width="120%" src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
             </td>
         </tr>
     </tbody>
 </table>
 
-#### Here some of my work:
+### Here some of my work:
 - SCRIPT TOOLS for Holberton:
     https://github.com/ronniebm/script_configurators  
 
