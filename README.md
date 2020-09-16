@@ -9,7 +9,7 @@
                 <p align="justify">I'm a Full stack software developer, passionate to learn all about technologies and their implementations. I like a good coffee, read self-motivation books, audio-books, keep training in web courses,  investigation, web/app design.</p>
                 <br>  
                 <p>My actual Technological skills and basis:</p>
-                Ubuntu | Bash Scripting | SQL databases | C/C++ | Python | HTML5 | CSS | JavaScript | React | Flask | Docker | Git | Tmux | emacs.
+                Ubuntu | Bash Scripting | SQL | C/C++ | Python | HTML5 | CSS | JavaScript | React | Flask | Docker | Git | Tmux | emacs.
             </td>
             <td align="center" width="60%">
                 <img width="100%" src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
