@@ -32,7 +32,7 @@
 <!--
 **ronniebm/ronniebm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://github.com/ronniebm/ronniebm/blob/master/img/animated05.gif" alt="image">
+<img src="https://github.com/ronniebm/ronniebm/blob/master/img/animated04.gif" alt="image">
 
 Here are some ideas to get you started:
 
