@@ -44,6 +44,7 @@ Ubuntu | Bash Scripting | SQL | C/C++ | Python | HTML5 | CSS | JavaScript | Reac
 
 ---
 <br>
+
 ### Here some of my work:
 
 - SCRIPT TOOLS for Holberton:  
