@@ -17,7 +17,8 @@
 
 
 <br>
-My actual Technological skills and basis:
+
+### My actual Technological skills and basis:
 
 ---
 <table>
