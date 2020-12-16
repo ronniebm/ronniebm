@@ -23,18 +23,18 @@ My actual Technological skills and basis:
 <table>
 <tbody>
     <tr>
-        <tc><img width="50px" src="https://image.winudf.com/v2/image1/Y29tLnJlYWN0aWNvbnNfaWNvbl8xNTkzNjM2ODQwXzA3NA/icon.png?w=170&fakeurl=1" alt="image"></tc>
-        <tc><img width="48px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="image"></tc>
-        <tc><img width="48px" src="https://image.flaticon.com/icons/png/512/377/377272.png" alt="image"></tc>
-        <tc><img width="48px" src="https://icons.iconarchive.com/icons/martz90/circle/512/ubuntu-icon.png" alt="image"></tc>
-        <tc><img width="46px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/8804286661557996995-512.png" alt="image"></tc>
-        <tc><img width="46px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="image"></tc>
-        <tc><img width="48px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="image"></tc>
-        <tc><img width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="image"></tc>
-        <tc><img width="53px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="image"></tc>
-        <tc><img width="50px" src="https://www.shareicon.net/data/2016/07/10/119368_app_512x512.png" alt="image"></tc>
-        <tc><img width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="image"></tc>
-        <tc><img width="50px" src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="image"></tc>
+        <td><img width="50px" src="https://image.winudf.com/v2/image1/Y29tLnJlYWN0aWNvbnNfaWNvbl8xNTkzNjM2ODQwXzA3NA/icon.png?w=170&fakeurl=1" alt="image"></td>
+        <td><img width="48px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="image"></td>
+        <td><img width="48px" src="https://image.flaticon.com/icons/png/512/377/377272.png" alt="image"></td>
+        <td><img width="48px" src="https://icons.iconarchive.com/icons/martz90/circle/512/ubuntu-icon.png" alt="image"></td>
+        <td><img width="46px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/8804286661557996995-512.png" alt="image"></td>
+        <td><img width="46px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="image"></td>
+        <td><img width="48px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="image"></td>
+        <td><img width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="image"></td>
+        <td><img width="53px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="image"></td>
+        <td><img width="50px" src="https://www.shareicon.net/data/2016/07/10/119368_app_512x512.png" alt="image"></td>
+        <td><img width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="image"></td>
+        <td><img width="50px" src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="image"></td>
     </tr>
 </tbody>
 </table>
