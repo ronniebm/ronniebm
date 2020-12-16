@@ -1,7 +1,6 @@
-<p style="font-size: 2rem; font-weight: 600">
-Welcome to Ronnie's Github
-<img width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="image"> 
-</p>
+<img width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="image"> <h3>Hi There!<h3>
+
+# Ronnie Barrios - @ronniealberto
 
 <table align="center">
   <tbody>
@@ -16,8 +15,32 @@ Welcome to Ronnie's Github
     </tbody>
 </table>
 
-![Profile views](https://gpvc.arturio.dev/[ronniebm])
 
+<br>
+My actual Technological skills and basis:
+------
+<img width="50px" src="https://image.winudf.com/v2/image1/Y29tLnJlYWN0aWNvbnNfaWNvbl8xNTkzNjM2ODQwXzA3NA/icon.png?w=170&fakeurl=1" alt="image">
+<img width="48px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="image">
+<img width="48px" src="https://image.flaticon.com/icons/png/512/377/377272.png" alt="image">
+
+<img width="48px" src="https://icons.iconarchive.com/icons/martz90/circle/512/ubuntu-icon.png" alt="image">
+
+<img width="46px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/8804286661557996995-512.png" alt="image">
+<img width="46px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="image">
+<img width="48px" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="image">
+<img width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="image">
+<img width="53px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="image">
+
+<img width="50px" src="https://www.shareicon.net/data/2016/07/10/119368_app_512x512.png" alt="image">
+<img width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="image">
+<img width="50px" src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="image">
+
+
+<br>  
+                <p></p>
+                Ubuntu | Bash Scripting | SQL | C/C++ | Python | HTML5 | CSS | JavaScript | React | Flask | Docker | Git | Tmux | emacs.
+
+<br><br>
 ### Here some of my work:
 
 - SCRIPT TOOLS for Holberton:  
@@ -28,10 +51,6 @@ Welcome to Ronnie's Github
 
 - Currently updating website from old wix format to a new Static Design:  
    www.mcontroles.com (an Industry Automation company).
-
-   <br>  
-                <p>My actual Technological skills and basis:</p>
-                Ubuntu | Bash Scripting | SQL | C/C++ | Python | HTML5 | CSS | JavaScript | React | Flask | Docker | Git | Tmux | emacs.
 
 <!--
 **ronniebm/ronniebm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
