@@ -6,7 +6,7 @@
   <tbody>
         <tr>
             <td align="left" width="40%">
-                <p align="justify">Ronnie is a Fullstack software developer and Electronic Engineer with 11 years of experience in customer support, project management, process automation, also he has developed expertise in topics such as UX/UI design, website responsive designs, javascript website's interactivity, and Php scripting language to formulary handling and email sending from server-side. He likes a good coffee, read self-motivation books, audio-books, continuous learning, investigation, and web/app design.</p>
+                <p align="justify">Ronnie is a Fullstack Software Engineer and Electronic Engineer with 11 years of experience in customer support, project management, process automation, also he has developed expertise in topics such as UX/UI design, website responsive designs, javascript website's interactivity, and Php scripting language to formulary handling and email sending from server-side. He likes a good coffee, read self-motivation books, audio-books, continuous learning, investigation, and web/app design.</p>
             </td>
             <td align="center" width="60%">
                 <img width="120%" src="https://github.com/ronniebm/ronniebm/blob/master/img/animated04.gif" alt="image">
